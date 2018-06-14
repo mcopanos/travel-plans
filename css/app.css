@@ -16,6 +16,14 @@ body {
     background-color: #f7b17b;
 }
 
+header {
+    text-align: center;
+    padding-bottom: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+
 .container {
     margin: auto;
     padding: 1em;
